@@ -8,7 +8,7 @@ function exibirTextoNaTela(tag, texto){
 
 exibirTextoNaTela('h1', 'Jogo do número secreto' );
 exibirTextoNaTela('p', 'Escolha um número entre 1 e 10');
-//funcao para exibir texto na tela
+//funcao para exibir texto na tella
 
 
 function verificarChute(){
